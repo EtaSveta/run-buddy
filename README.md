@@ -12,3 +12,5 @@ https://etasveta.github.io/run-buddy/
 
 ## Contrubution
 Made with ❤️ by Svetlana Nesterova
+
+### ©️2019 Run Buddy, Inc
